@@ -1,8 +1,8 @@
 ### Comprehensive Project Analysis: A Multi-Faceted Approach to Resume Analysis and Information Retrieval
-
-
-![rag](https://github.com/user-attachments/assets/8412ed2a-4818-461d-acf0-f2b88e08ffe6)
-
+---------
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8412ed2a-4818-461d-acf0-f2b88e08ffe6" alt="rag">
+</div>
 
 The comprehensive analysis of the entire project, which includes several notebooks focused on different aspects of resume analysis and information retrieval, reveals a robust and multi-faceted approach to handling and processing textual data. The project leverages state-of-the-art methodologies and tools to achieve efficient and accurate information retrieval, enhancing the overall quality and relevance of the extracted data. Below is a summary of the key findings and implications from each notebook.
 
